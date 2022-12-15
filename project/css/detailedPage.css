@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+*{
+    font-family: 'Silkscreen', cursive;
+    box-sizing: border-box;
+}
+
+.area1{
+    margin-left: 30px;
+}
+
+.area2{
+    background-color: skyblue;
+    width: 370px;
+    height: 370px;
+    padding: 1px;
+}
+
+.left{
+    color: skyblue;
+    margin: 1px;
+    display: inline-block;
+    float: left;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border: 1px solid white;
+}
+
+.right{
+    color: skyblue;
+    margin: 1px;
+    display: inline-block;
+    float: right;
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    border: 1px solid white;
+}
+/* span{
+    display: none;
+    background-color: skyblue;
+    border: 1px solid white;
+} */
